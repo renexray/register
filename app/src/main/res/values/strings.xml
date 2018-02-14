@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">register</string>
+    <string name="login_invalid_username">This name is too short</string>
+    <string name="login_invalid_password">This password is too short</string>
+    <string name="register_invalid_email">This email is needs @ and .</string>
+    <string name="register_invalid_name">This name is too short</string>
+    <string name="register_invalid_pass">This password is too short</string>
+</resources>
